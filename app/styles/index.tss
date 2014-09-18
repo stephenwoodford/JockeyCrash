@@ -1,0 +1,7 @@
+".container": {
+	backgroundColor:"white"
+}
+
+"#webView": {
+	scalesPageToFit: false // This line causes the crash in JockeyCrash Log 2
+}
