@@ -3,5 +3,5 @@
 }
 
 "#webView": {
-	scalesPageToFit: false // This line causes the crash in JockeyCrash Log 2
+	//scalesPageToFit: false // This line causes the crash in JockeyCrash Log 2
 }

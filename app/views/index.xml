@@ -1,5 +1,5 @@
 <Alloy>
 	<Window class="container">
-		<WebView id="webView" module="dk.napp.jockey" />
+		<WebView id="webView" module="dk.napp.jockey" url="https://www.google.com" />
 	</Window>
 </Alloy>
